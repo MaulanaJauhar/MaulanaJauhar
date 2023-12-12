@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jauhar Maulana A'la</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer%20Science%20Student;Technology%20Enthusiast;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Informatics%20Engineering%20Student;Technology%20Enthusiast;&center=true&width=500&height=50"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maulanajauhar&label=Profile%20views&color=0e75b6&style=flat" alt="maulanajauhar" /> </p>
