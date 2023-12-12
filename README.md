@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Informatics%20Engineering%20Student;Technology%20Enthusiast;&center=true&width=500&height=50"></a>
 </p>
+<img align="right" alt="Coding" src="[https://id.pinterest.com/pin/204702745549241158/](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maulanajauhar&label=Profile%20views&color=0e75b6&style=flat" alt="maulanajauhar" /> </p>
 
